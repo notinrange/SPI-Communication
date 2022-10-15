@@ -11,7 +11,7 @@ Devices communicating via SPI are in a master-slave relationship. The master is 
 
 
 
-![Circuit Design of SPI Communication](https://drive.google.com/file/d/16yU6Hl0TB5Qi9b79b5YyGKC_BUSb0qld/view?usp=sharing)
+![Circuit Design of SPI Communication](https://user-images.githubusercontent.com/88238469/195983039-52acc049-0919-4ae2-8331-b77973530d80.PNG)
 
 
 
