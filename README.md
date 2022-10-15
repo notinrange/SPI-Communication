@@ -40,4 +40,4 @@ Devices communicating via SPI are in a master-slave relationship. The master is 
 
 [SPI Protocol Github](https://github.com/topics/spi-protocol)
 
-
+[Tinkercad Simulation By Me](https://www.tinkercad.com/embed/65kXH2V4Sst)
