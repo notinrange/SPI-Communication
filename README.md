@@ -18,7 +18,9 @@ Devices communicating via SPI are in a master-slave relationship. The master is 
 
 ## SPI Protocol Working
 
-![Basic SPI](https://drive.google.com/file/d/1wq5i45U2MoEz7pgVW7xK5hnE_gONwKwV/view?usp=sharing)
+
+![Basic SPI](https://user-images.githubusercontent.com/88238469/195983101-016dcea4-923e-4dff-8fec-177cc040e8e2.PNG)
+
 
 #### MOSI (Master Output/Slave Input) - Line for the master to send data to the slave.
 
@@ -27,6 +29,8 @@ Devices communicating via SPI are in a master-slave relationship. The master is 
 #### SCLK (Clock) – Line for the clock signal.
 
 #### SS/CS (Slave Select/Chip Select) – Line for the master to select which slave to send data to.
+
+![Table Contents](https://user-images.githubusercontent.com/88238469/195983108-44cd2cf6-361e-4daf-90ca-3090377160ea.PNG)
 
 ### Note  - In practice, the number of slaves is limited by the load capacitance of the system, which reduces the ability of the master to accurately switch between voltage levels.
 
